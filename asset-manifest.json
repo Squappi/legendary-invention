@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.73cdddda.chunk.css",
-    "main.js": "/static/js/main.e67537a8.chunk.js",
-    "main.js.map": "/static/js/main.e67537a8.chunk.js.map",
+    "main.css": "/static/css/main.e1f0cce1.chunk.css",
+    "main.js": "/static/js/main.40d62942.chunk.js",
+    "main.js.map": "/static/js/main.40d62942.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8fc1084b.js",
     "runtime-main.js.map": "/static/js/runtime-main.8fc1084b.js.map",
     "static/js/2.f268a1ba.chunk.js": "/static/js/2.f268a1ba.chunk.js",
@@ -10,7 +10,7 @@
     "static/js/3.cfb21d41.chunk.js": "/static/js/3.cfb21d41.chunk.js",
     "static/js/3.cfb21d41.chunk.js.map": "/static/js/3.cfb21d41.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.73cdddda.chunk.css.map": "/static/css/main.73cdddda.chunk.css.map",
+    "static/css/main.e1f0cce1.chunk.css.map": "/static/css/main.e1f0cce1.chunk.css.map",
     "static/js/2.f268a1ba.chunk.js.LICENSE.txt": "/static/js/2.f268a1ba.chunk.js.LICENSE.txt",
     "static/media/app.module.scss": "/static/media/OpenSans-SemiBold.1232ba75.woff",
     "static/media/reviews.module.scss": "/static/media/star-active.80a51f89.svg",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.8fc1084b.js",
     "static/js/2.f268a1ba.chunk.js",
-    "static/css/main.73cdddda.chunk.css",
-    "static/js/main.e67537a8.chunk.js"
+    "static/css/main.e1f0cce1.chunk.css",
+    "static/js/main.40d62942.chunk.js"
   ]
 }
